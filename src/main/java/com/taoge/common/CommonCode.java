@@ -9,13 +9,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.regex.Matcher;
 
-/**
- * Created with IntelliJ IDEA.
- * User: wjq
- * Date: 14-10-13
- * Time: 下午7:03
- * To change this template use File | Settings | File Templates.
- */
 public class CommonCode {
 
     @SuppressWarnings("rawtypes")
